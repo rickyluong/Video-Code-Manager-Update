@@ -36,6 +36,11 @@
           "version": "1.4.4",
           "update_link": "https://raw.githubusercontent.com/rickyluong/Video-Code-Manager-Update/main/video-manager-code-checker-1.4.4.xpi",
           "update_hash": "sha256:097119b0235db8ce7b447164cad739538b552885d8658255b64c48560986199c"
+        },
+        {
+          "version": "1.4.5",
+          "update_link": "https://raw.githubusercontent.com/rickyluong/Video-Code-Manager-Update/main/video-manager-code-checker-1.4.5.xpi",
+          "update_hash": "sha256:22904f1556bbd40c5cb3717ecb24bbb79a63e12cbede02405e53f48986c5e5ce"
         }
       ]
     }
