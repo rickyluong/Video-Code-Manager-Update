@@ -3,11 +3,6 @@
     "code-checker@video-manager.app": {
       "updates": [
         {
-          "version": "1.4.1",
-          "update_link": "https://raw.githubusercontent.com/rickyluong/Video-Code-Manager-Update/main/video-manager-code-checker-1.4.1.xpi",
-          "update_hash": "sha256:571167d249b29daf67ee7a4a41798279682c5a1e69cab9b27016aad8d32945f1"
-        },
-        {
           "version": "1.4.2",
           "update_link": "https://raw.githubusercontent.com/rickyluong/Video-Code-Manager-Update/main/video-manager-code-checker-1.4.2.xpi",
           "update_hash": "sha256:6051f0fb399b936938a936cc861a1dd38e71213b8306e27a31ebc897b860b7a6"
@@ -51,6 +46,11 @@
           "version": "1.8.1",
           "update_link": "https://raw.githubusercontent.com/rickyluong/Video-Code-Manager-Update/main/video-manager-code-checker-1.8.1.xpi",
           "update_hash": "sha256:04dc577a08f8b79b6027821fb5f0ce5b808dfbff1039b4b70f08450c790f582e"
+        },
+        {
+          "version": "1.9.0",
+          "update_link": "https://raw.githubusercontent.com/rickyluong/Video-Code-Manager-Update/main/video-manager-code-checker-1.9.0.xpi",
+          "update_hash": "sha256:f38cc2e3ab85bfb569f9b2922e33cbff8a8dbaf930fcf4679802dcfb584948f0"
         }
       ]
     }
